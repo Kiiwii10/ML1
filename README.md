@@ -1,1 +1,2 @@
 # ML1
+Advanced methods for data analysis and the integration of statistical tools and machine learning tools for data analysis, visual representation, and the construction of classification and prediction systems. The topics covered in the course will include: prediction and linear regression, classification systems, support vector machines, PAC, resampling, model selection and regularization, decision and regression trees, cluster analysis. Learning outcomes: theoretical understanding of the various methods and the ability to apply them to real data.
